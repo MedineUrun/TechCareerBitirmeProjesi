@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_anasayfa"
+        android:title="Anasayfa"
+        android:icon="@drawable/home_icon"/>
+    <item
+        android:id="@+id/bottom_sepet"
+        android:title="Sepetim"
+        android:icon="@drawable/basket"/>
+    <item
+        android:id="@+id/bottom_favori"
+        android:title="Favorilerim"
+        android:icon="@drawable/favorite"/>
+</menu>
